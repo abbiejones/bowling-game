@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: io.ratpack/ratpack-base:1.5.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/ratpack/ratpack-base/1.5.4/ratpack-base-1.5.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
